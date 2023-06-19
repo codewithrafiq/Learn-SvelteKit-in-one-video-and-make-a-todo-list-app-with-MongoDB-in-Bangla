@@ -1,3 +1,3 @@
 # Learn SvelteKit in one video and make a todo list app with MongoDB in Bangla
 
-## [Video]()
+## [Video](https://youtu.be/5tiUsw9lYsE)
